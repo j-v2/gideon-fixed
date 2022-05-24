@@ -1,0 +1,15 @@
+E:\source\gamesense.net\GitHub SimpleLoader\bin\Release\gamesense.exe.config
+E:\source\gamesense.net\GitHub SimpleLoader\bin\Release\gamesense.exe
+E:\source\gamesense.net\GitHub SimpleLoader\bin\Release\gamesense.pdb
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.csproj.AssemblyReference.cache
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.csproj.SuggestedBindingRedirects.cache
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\WindowsFormsApp2.Form1.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\SimpleLoader.Form2.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\SimpleLoader.Form3.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\SimpleLoader.Form4.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\SimpleLoader.Form5.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.Properties.Resources.resources
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.csproj.GenerateResource.cache
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.csproj.CoreCompileInputs.cache
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.exe
+E:\source\gamesense.net\GitHub SimpleLoader\obj\Release\gamesense.pdb
